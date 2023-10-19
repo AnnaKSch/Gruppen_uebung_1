@@ -1,2 +1,2 @@
-print("Helloooooooooooo again I said Hello again :) ")
-print("Ich bin die hello.py aus dem zweiten feature")
+print("Hi ich bin das erste Feature")
+print("Hello again! I said Hello again")
